@@ -1,4 +1,3 @@
----
 ### **1. Introduction**
 #### **1.1 Epidemiology and Global Burden of Colon Cancer**
 Colon cancer, a malignancy arising from the epithelial cells of the large intestine, remains a
